@@ -1,3 +1,5 @@
+\[[Main](README.md)\] \[[Screenshots](screenshots.md)\]
+
 Steam Sky is open source, roguelike game in steampunk theme. Your role is to 
 command flying ship and its crew, traveling between floating bases, fighting 
 with enemies, trade in goods, etc. This game is more strategy based than
