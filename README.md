@@ -8,8 +8,17 @@ as long as your character not die. Game is under heavy development, but
 generally is playable. Now game is available (and tested) only on Linux 
 64-bit.
 
+## Features
+- Buy cheaply, sell expensive: find best trade routes between sky bases.
+- Do randomly generated missions to gain moneys and reputation in sky bases.
+- Manage your ship crew: give them orders, hire new or dismiss old members.
+- Manage your ship: upgrade installed modules, install new, repair damaged.
+- Craft items: from tools through repair materials to food.
+- Fight with enemy ships in tactical combat.
+
 ## Downloads
 - Latest stable release:
-  [1.0.1](https://github.com/thindil/steamsky/releases/tag/v1.0.1)
+  [1.0.1](https://github.com/thindil/steamsky/releases/tag/v1.0.1) [2017-04-23]
 - Latest development release:
   [0.9-alpha](https://github.com/thindil/steamsky/releases/tag/v0.9-alpha)
+  [2017-03-05]
