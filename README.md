@@ -20,5 +20,5 @@ generally is playable. Now game is available (and tested) only on Linux
 - Latest stable release:
   [1.0.1](https://github.com/thindil/steamsky/releases/tag/v1.0.1) [2017-04-23]
 - Latest development release:
-  [0.9-alpha](https://github.com/thindil/steamsky/releases/tag/v0.9-alpha)
-  [2017-03-05]
+  [1.1-dev](https://github.com/thindil/steamsky/releases/tag/v1.1-dev)
+  [2017-04-30]
