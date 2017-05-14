@@ -18,7 +18,7 @@ generally is playable. Now game is available (and tested) only on Linux
 
 ## Downloads
 - Latest stable release:
-  [1.0.1](https://github.com/thindil/steamsky/releases/tag/v1.0.1) [2017-04-23]
+  [1.0.2](https://github.com/thindil/steamsky/releases/tag/v1.0.2) [2017-05-14]
 - Latest development release:
   [1.1-dev](https://github.com/thindil/steamsky/releases/tag/v1.1-dev)
   [2017-04-30]
