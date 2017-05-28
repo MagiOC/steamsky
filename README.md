@@ -52,5 +52,5 @@ generally is playable. Now game is available (and tested) only on Linux
 - Latest stable release:
   [1.0.2](https://github.com/thindil/steamsky/releases/tag/v1.0.2) [2017-05-14]
 - Latest development release:
-  [1.1-dev](https://github.com/thindil/steamsky/releases/tag/v1.1-dev)
-  [2017-04-30]
+  [1.2-dev](https://github.com/thindil/steamsky/releases/tag/v1.2-dev)
+  [2017-05-28]
