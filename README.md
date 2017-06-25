@@ -50,7 +50,7 @@ generally is playable. Now game is available (and tested) only on Linux
 
 ## Downloads
 - Latest stable release:
-  [1.0.3](https://github.com/thindil/steamsky/releases/tag/v1.0.3) [2017-06-04]
+  [1.0.4](https://github.com/thindil/steamsky/releases/tag/v1.0.4) [2017-06-25]
 - Latest development release:
-  [1.2-dev](https://github.com/thindil/steamsky/releases/tag/v1.2-dev)
-  [2017-05-28]
+  [1.3-dev](https://github.com/thindil/steamsky/releases/tag/v1.3-dev)
+  [2017-06-25]
