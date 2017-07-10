@@ -1,12 +1,12 @@
 \[[Main](README.md)\] \[[Screenshots](screenshots.md)\]
 
-Steam Sky is open source, roguelike game in steampunk theme. Your role is to 
-command flying ship and its crew, traveling between floating bases, fighting 
-with enemies, trade in goods, etc. This game is more strategy based than
-tactical like most of roguelikes. Here are no end goal for game, you can play
-as long as your character not die. Game is under heavy development, but 
-generally is playable. Now game is available (and tested) only on Linux 
-64-bit.
+Steam Sky is open source, roguelike game in steampunk theme. Your role in this
+game is to command flying ship and its crew, traveling between floating bases, 
+fighting with enemies, trading goods, etc. The game is more strategy based 
+than tactical like most of roguelikes. There is no end goal for game, and you 
+can play as long as your character does not die. Game is under heavy 
+development, but is generally playable. Now game is available (and tested) 
+only on Linux 64-bit.
 
 ## Features
 - Buy cheaply, sell expensive: find best trade routes between sky bases.
@@ -15,20 +15,22 @@ generally is playable. Now game is available (and tested) only on Linux
     items in bases depends on bases types. For example, it is good idea to buy
     food in agricultural bases and sell it to industrial bases.
 
-- Do randomly generated missions to gain moneys and reputation in sky bases.
+- Do randomly generated missions to gain money and reputation at sky bases.
 
     Patrol selected map areas, explore unvisited areas, deliver items to bases,
     etc. Some missions may require some free cargo space, others may depends on
     installed ship modules.
 
-- Manage your ship crew: give them orders, hire new or dismiss old members.
+- Manage your ship's crew: give them orders, hire new ones or dismiss old 
+  members.
 
     Your crew and your character must eat and drink, wounded, hungry or tired
     crew members works slower. As crew members spend some time on given order
     he or she will gain experience in selected skill which allow works faster
     or more precise.
 
-- Manage your ship: upgrade installed modules, install new, repair damaged.
+- Manage your ship: upgrade installed modules, install new ones, or repair
+  damaged ones.
 
     Progress in game depends on installed ship modules. With stronger modules,
     you have bigger chance to meet stronger enemies. You must balance your
