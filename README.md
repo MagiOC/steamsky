@@ -55,4 +55,4 @@ only on Linux 64-bit.
   [1.0.7](https://github.com/thindil/steamsky/releases/tag/v1.0.7) [2017-09-03]
 - Latest development release:
   [1.6-dev](https://github.com/thindil/steamsky/releases/tag/v1.6-dev)
-  [2017-07-17]
+  [2017-09-17]
