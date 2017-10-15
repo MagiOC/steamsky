@@ -54,5 +54,5 @@ only on Linux 64-bit.
 - Latest stable release:
   [1.0.8](https://github.com/thindil/steamsky/releases/tag/v1.0.8) [2017-10-01]
 - Latest development release:
-  [1.6-dev](https://github.com/thindil/steamsky/releases/tag/v1.6-dev)
-  [2017-09-17]
+  [1.7-dev](https://github.com/thindil/steamsky/releases/tag/v1.7-dev)
+  [2017-10-15]
