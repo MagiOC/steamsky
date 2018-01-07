@@ -52,7 +52,7 @@ only on Linux 64-bit.
 
 ## Downloads
 - Latest stable release:
-  [1.0.10](https://github.com/thindil/steamsky/releases/tag/v1.0.10) [2017-12-03]
+  [2.0](https://github.com/thindil/steamsky/releases/tag/v2.0) [2018-01-07]
 - Latest development release:
   [1.9-dev](https://github.com/thindil/steamsky/releases/tag/v1.9-dev)
   [2017-12-10]
