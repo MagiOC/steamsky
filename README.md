@@ -5,8 +5,8 @@ game is to command flying ship and its crew, traveling between floating bases,
 fighting with enemies, trading goods, etc. The game is more strategy based 
 than tactical like most of roguelikes. There is no end goal for game, and you 
 can play as long as your character does not die. Game is under heavy 
-development, but is generally playable. Now game is available (and tested) 
-only on Linux 64-bit.
+development, but is generally playable. Now game is available on Linux 64-bit
+and Windows(development version only).
 
 ## Features
 - Buy cheaply, sell expensive: find best trade routes between sky bases.
@@ -54,5 +54,5 @@ only on Linux 64-bit.
 - Latest stable release:
   [2.0.3](https://github.com/thindil/steamsky/releases/tag/v2.0.3) [2018-03-11]
 - Latest development release:
-  [2.1-dev](https://github.com/thindil/steamsky/releases/tag/v2.1-dev)
-  [2018-02-25]
+  [2.2-dev](https://github.com/thindil/steamsky/releases/tag/v2.2-dev)
+  [2018-03-25]
