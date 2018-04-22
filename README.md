@@ -54,5 +54,5 @@ and Windows(development version only).
 - Latest stable release:
   [2.0.3](https://github.com/thindil/steamsky/releases/tag/v2.0.3) [2018-03-11]
 - Latest development release:
-  [2.2-dev](https://github.com/thindil/steamsky/releases/tag/v2.2-dev)
-  [2018-03-25]
+  [2.3-dev](https://github.com/thindil/steamsky/releases/tag/v2.3-dev)
+  [2018-04-22]
