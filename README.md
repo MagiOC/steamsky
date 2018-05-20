@@ -52,7 +52,7 @@ and Windows(development version only).
 
 ## Downloads
 - Latest stable release:
-  [2.0.5](https://github.com/thindil/steamsky/releases/tag/v2.0.5) [2018-05-13]
+  [2.0.6](https://github.com/thindil/steamsky/releases/tag/v2.0.6) [2018-05-20]
 - Latest development release:
-  [2.3-dev](https://github.com/thindil/steamsky/releases/tag/v2.3-dev)
-  [2018-04-22]
+  [2.4-dev](https://github.com/thindil/steamsky/releases/tag/v2.4-dev)
+  [2018-05-20]
