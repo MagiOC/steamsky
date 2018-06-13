@@ -56,7 +56,7 @@ run `steamsky` program to start game.
 If you compiled the game just clicking on `steamsky.exe` should run it
 
 ### Starting parameters
-You can set game directories by starting parameters. Possible options are:
+You can set game directories by using starting parameters. Possible options are:
 
 * --datadir=[directory] set directory where all game data files (and
   directories like ships, items, etc.) are. Example: `./steamsky
@@ -86,7 +86,7 @@ Paths to directories can be absolute or relative where file `steamsky` is. For
 Windows, use `steamsky.exe` instead `./steamsky`.
 
 ## Modding Support
-For detailed informations about modifying various game elements or debugging
+For detailed informations about modifying various game elements or debugging the
 game, see [MODDING.md](bin/doc/MODDING.md)
 
 ## Contributing to project
